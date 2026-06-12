@@ -1,2 +1,2 @@
-# PlanDay1
+# PlanDay
 Planificador inteligente de actividades diarias.
